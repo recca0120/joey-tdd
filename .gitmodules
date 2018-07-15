@@ -1,0 +1,15 @@
+[submodule "AssertionSample"]
+	path = AssertionSample
+	url = git@github.com:php-tdd/AssertionSample.git
+[submodule "BaseClassCoupling"]
+	path = BaseClassCoupling
+	url = git@github.com:php-tdd/BaseClassCoupling.git
+[submodule "DelegateVerify"]
+	path = DelegateVerify
+	url = git@github.com:php-tdd/DelegateVerify.git
+[submodule "IsolatedByInheritanceAndOverride"]
+	path = IsolatedByInheritanceAndOverride
+	url = git@github.com:php-tdd/IsolatedByInheritanceAndOverride.git
+[submodule "OTP"]
+	path = OTP
+	url = git@github.com:php-tdd/OTP.git
